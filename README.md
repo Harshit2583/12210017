@@ -1,11 +1,11 @@
 # URL Shortener Frontend
 
-![App Screenshot 1](./frontend/assets/URLShortner.png)
+![App Screenshot 1](./assets/URLShortner.png)
 A professional, responsive React web application for shortening URLs and viewing analytics, built with Material UI and JavaScript.
 
 ## Features
 
-![App Screenshot 2](./frontend/assets/stats.png)
+![App Screenshot 2](./assets/stats.png)
 
 - **Shorten up to 5 URLs at once** with optional custom shortcode and validity period
 - **Client-side validation** for URLs, validity, and shortcode
